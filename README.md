@@ -1,3 +1,3 @@
 # Profiles REST API
 
-Profiles REST API code
+Sourcecode for the Profiles REST API
